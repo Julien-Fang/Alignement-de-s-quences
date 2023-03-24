@@ -1,0 +1,9 @@
+Pour notre code nous avons décidé d'implementer une liste doublement chainée pour l'alignement afin d'avoir une insertion et suppression en O(1).
+Pour effectuer nos test il faut utiliser la commande make suivi du fichier c associé au test qui sont les suivants :
+Ces fichiers permettent de lancer plusieurs instances qui se trouvent dans le dossier "algo" et renvoie un fichier texte avec le temps pris pour éxecuté chaque instance.
+make Atest
+make Btest
+make Ctest
+make Dtest
+Fichier contient des tests pour l'ensemble du projet :
+make all_test 

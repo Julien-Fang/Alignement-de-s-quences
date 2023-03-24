@@ -1,0 +1,5 @@
+plot "temps_sol2.txt" using 3:6 title "sol2" with lines
+set term postscript portrait
+set xlabel "x"
+set ylabel "Temps"
+set size 0.7, 0.7

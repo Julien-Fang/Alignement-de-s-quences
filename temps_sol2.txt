@@ -1,0 +1,22 @@
+x : 10 temps : 0.000000
+x : 10 temps : 0.000000
+x : 10 temps : 0.000000
+x : 12 temps : 0.000000
+x : 12 temps : 0.000000
+x : 12 temps : 0.000000
+x : 13 temps : 0.000000
+x : 13 temps : 0.000000
+x : 13 temps : 0.000000
+x : 14 temps : 0.000000
+x : 14 temps : 0.000000
+x : 14 temps : 0.000000
+x : 15 temps : 0.000000
+x : 15 temps : 0.000000
+x : 15 temps : 0.000000
+x : 20 temps : 0.000000
+x : 20 temps : 0.000000
+x : 20 temps : 0.000000
+x : 50 temps : 0.000000
+x : 50 temps : 0.000000
+x : 50 temps : 0.000000
+x : 100 
